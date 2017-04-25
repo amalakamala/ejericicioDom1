@@ -1,0 +1,9 @@
+body {
+	font-weight: 200;	
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#respuesta-num{
+	color: #5E20A0;
+	font-weight: bold;
+}
